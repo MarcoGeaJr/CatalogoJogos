@@ -1,5 +1,5 @@
 ﻿using CatalogoJogos.InputModel;
-using CatalogoJogos.Repositories;
+using CatalogoJogos.Repositories.JogoRepositories;
 using CatalogoJogos.ViewModel;
 using CatalogoJogos.Exceptions;
 using CatalogoJogos.Entities;
